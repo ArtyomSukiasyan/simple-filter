@@ -1,0 +1,1 @@
+Simple filter in pure Javascript.
